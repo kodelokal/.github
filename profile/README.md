@@ -5,7 +5,7 @@
 
 Solusi pengembangan website, aplikasi web, dan desain UI/UX modern untuk UMKM, bisnis, dan personal. Berbasis di Malang, melayani seluruh Indonesia.
 
-[![Website](https://img.shields.io/badge/Website-kodelokal.id-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kodelokal.store)
+[![Website](https://img.shields.io/badge/Website-kodelokal.store-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kodelokal.store)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hubungi_Kami-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285190302240)
 [![Instagram](https://img.shields.io/badge/Instagram-@kodelokal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kodelokal)
 [![Email](https://img.shields.io/badge/Email-Kontak-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halo@kodelokal.store)
